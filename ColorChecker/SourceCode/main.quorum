@@ -64,4 +64,5 @@ utility:DelayMilliseconds(duration)
 
 end
 utility:DelayMilliseconds(duration)
+sound:BeepSequenceDown()
 end
